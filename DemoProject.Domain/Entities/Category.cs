@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace DemoProject.Domain.Entities
 {
-    class Category
+    public class Category:Entity
     {
+        public string Name { get; set; }
     }
 }
