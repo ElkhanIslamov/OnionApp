@@ -1,0 +1,11 @@
+C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Domain\bin\Debug\net8.0\DemoProject.Domain.deps.json
+C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Domain\bin\Debug\net8.0\DemoProject.Domain.dll
+C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Domain\bin\Debug\net8.0\DemoProject.Domain.pdb
+C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Domain\obj\Debug\net8.0\DemoProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Domain\obj\Debug\net8.0\DemoProject.Domain.AssemblyInfoInputs.cache
+C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Domain\obj\Debug\net8.0\DemoProject.Domain.AssemblyInfo.cs
+C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Domain\obj\Debug\net8.0\DemoProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Domain\obj\Debug\net8.0\DemoProject.Domain.dll
+C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Domain\obj\Debug\net8.0\refint\DemoProject.Domain.dll
+C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Domain\obj\Debug\net8.0\DemoProject.Domain.pdb
+C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Domain\obj\Debug\net8.0\ref\DemoProject.Domain.dll
