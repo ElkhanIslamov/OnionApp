@@ -1,4 +1,5 @@
-﻿using DemoProject.Application.Repostories;
+﻿using DemoProject.Application.DTOs;
+using DemoProject.Application.Repostories;
 using DemoProject.Application.Services.Contracts;
 using DemoProject.Domain.Entities;
 
@@ -18,9 +19,20 @@ public class ProductManager : IProductService
         _repository.AddProduct(product);
     }
 
-    public List<Product> GetProducts()
+    public List<ProductDto> GetProducts()
     {
-        return _repository.GetProducts();
+        var productDtos= new List<ProductDto>();
+
+        foreach (var item in _repository.GetProducts())
+        {
+            productDtos.Add(new ProductDto
+            {
+                Id = item.Id,
+                Name = item.Name,
+                CategoryName = item.Category?.Name,
+            });
+        }
+        return  productDtos;
     }
 
     public void RemoveProduct(int id)

@@ -26,7 +26,7 @@ namespace OnionArchitectureDemoProject
 
            foreach(var item in productManager.GetProducts())
             {
-                Console.WriteLine(item.Name + " " + item.Category?.Name);
+                Console.WriteLine(item.Name + " " + item.CategoryName);
             }
         }
     }

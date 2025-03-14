@@ -7,24 +7,12 @@
       "RelativeMoniker": "D:0:0:{D34457BD-F167-4649-B70B-CE9E841C3EA1}|OnionArchitectureDemoProject\\OnionArchitectureDemoProject.csproj|solutionrelative:onionarchitecturedemoproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E4CD40-F6F0-4B00-A621-6982B5A3F95F}|DemoProject.InfraStructure\\DemoProject.Infrastructure.csproj|c:\\users\\elkhan.islamov\\desktop\\onionarchitecturedemoproject\\demoproject.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E4CD40-F6F0-4B00-A621-6982B5A3F95F}|DemoProject.InfraStructure\\DemoProject.Infrastructure.csproj|solutionrelative:demoproject.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6557156F-105F-44C6-BF1F-F6E3285B6A80}|DemoProject.Application\\DemoProject.Application.csproj|c:\\users\\elkhan.islamov\\desktop\\onionarchitecturedemoproject\\demoproject.application\\services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6557156F-105F-44C6-BF1F-F6E3285B6A80}|DemoProject.Application\\DemoProject.Application.csproj|solutionrelative:demoproject.application\\services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3680BBB8-2599-4505-944A-F9695A9E146F}|DemoProject.Domain\\DemoProject.Domain.csproj|c:\\users\\elkhan.islamov\\desktop\\onionarchitecturedemoproject\\demoproject.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3680BBB8-2599-4505-944A-F9695A9E146F}|DemoProject.Domain\\DemoProject.Domain.csproj|solutionrelative:demoproject.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2E4CD40-F6F0-4B00-A621-6982B5A3F95F}|DemoProject.InfraStructure\\DemoProject.Infrastructure.csproj|c:\\users\\elkhan.islamov\\desktop\\onionarchitecturedemoproject\\demoproject.infrastructure\\efcore\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E4CD40-F6F0-4B00-A621-6982B5A3F95F}|DemoProject.InfraStructure\\DemoProject.Infrastructure.csproj|solutionrelative:demoproject.infrastructure\\efcore\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3680BBB8-2599-4505-944A-F9695A9E146F}|DemoProject.Domain\\DemoProject.Domain.csproj|c:\\users\\elkhan.islamov\\desktop\\onionarchitecturedemoproject\\demoproject.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3680BBB8-2599-4505-944A-F9695A9E146F}|DemoProject.Domain\\DemoProject.Domain.csproj|solutionrelative:demoproject.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3680BBB8-2599-4505-944A-F9695A9E146F}|DemoProject.Domain\\DemoProject.Domain.csproj|c:\\users\\elkhan.islamov\\desktop\\onionarchitecturedemoproject\\demoproject.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3680BBB8-2599-4505-944A-F9695A9E146F}|DemoProject.Domain\\DemoProject.Domain.csproj|solutionrelative:demoproject.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6557156F-105F-44C6-BF1F-F6E3285B6A80}|DemoProject.Application\\DemoProject.Application.csproj|c:\\users\\elkhan.islamov\\desktop\\onionarchitecturedemoproject\\demoproject.application\\repostories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6557156F-105F-44C6-BF1F-F6E3285B6A80}|DemoProject.Application\\DemoProject.Application.csproj|solutionrelative:demoproject.application\\repostories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,19 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\elkhan.islamov\\Desktop\\OnionArchitectureDemoProject\\DemoProject.InfraStructure\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "DemoProject.InfraStructure\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\elkhan.islamov\\Desktop\\OnionArchitectureDemoProject\\DemoProject.InfraStructure\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "DemoProject.InfraStructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA5wBgAAABMAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elkhan.islamov\\Desktop\\OnionArchitectureDemoProject\\DemoProject.Application\\Repostories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "DemoProject.Application\\Repostories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\elkhan.islamov\\Desktop\\OnionArchitectureDemoProject\\DemoProject.Application\\Repostories\\IProductRepository.cs",
+              "RelativeToolTip": "DemoProject.Application\\Repostories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T07:14:07.005Z",
+              "WhenOpened": "2025-03-14T07:35:06.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\elkhan.islamov\\Desktop\\OnionArchitectureDemoProject\\DemoProject.Application\\Services\\ProductManager.cs",
+              "RelativeDocumentMoniker": "DemoProject.Application\\Services\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\elkhan.islamov\\Desktop\\OnionArchitectureDemoProject\\DemoProject.Application\\Services\\ProductManager.cs",
+              "RelativeToolTip": "DemoProject.Application\\Services\\ProductManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:34:28.611Z",
               "EditorCaption": ""
             },
             {
@@ -57,61 +58,9 @@
               "RelativeDocumentMoniker": "OnionArchitectureDemoProject\\Program.cs",
               "ToolTip": "C:\\Users\\elkhan.islamov\\Desktop\\OnionArchitectureDemoProject\\OnionArchitectureDemoProject\\Program.cs",
               "RelativeToolTip": "OnionArchitectureDemoProject\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBwAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T07:01:08.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\elkhan.islamov\\Desktop\\OnionArchitectureDemoProject\\DemoProject.Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "DemoProject.Domain\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\elkhan.islamov\\Desktop\\OnionArchitectureDemoProject\\DemoProject.Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "DemoProject.Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T06:22:20.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\elkhan.islamov\\Desktop\\OnionArchitectureDemoProject\\DemoProject.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "DemoProject.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\elkhan.islamov\\Desktop\\OnionArchitectureDemoProject\\DemoProject.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "DemoProject.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T06:22:01.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\elkhan.islamov\\Desktop\\OnionArchitectureDemoProject\\DemoProject.Domain\\Entities\\Entity.cs",
-              "RelativeDocumentMoniker": "DemoProject.Domain\\Entities\\Entity.cs",
-              "ToolTip": "C:\\Users\\elkhan.islamov\\Desktop\\OnionArchitectureDemoProject\\DemoProject.Domain\\Entities\\Entity.cs",
-              "RelativeToolTip": "DemoProject.Domain\\Entities\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T06:21:58.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\elkhan.islamov\\Desktop\\OnionArchitectureDemoProject\\DemoProject.InfraStructure\\EFCore\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DemoProject.InfraStructure\\EFCore\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\elkhan.islamov\\Desktop\\OnionArchitectureDemoProject\\DemoProject.InfraStructure\\EFCore\\AppDbContext.cs",
-              "RelativeToolTip": "DemoProject.InfraStructure\\EFCore\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T06:21:18.681Z",
               "EditorCaption": ""
             }
           ]

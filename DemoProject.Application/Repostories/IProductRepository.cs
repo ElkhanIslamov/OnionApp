@@ -1,4 +1,5 @@
-﻿using DemoProject.Domain.Entities;
+﻿using DemoProject.Application.DTOs;
+using DemoProject.Domain.Entities;
 
 namespace DemoProject.Application.Repostories;
 
