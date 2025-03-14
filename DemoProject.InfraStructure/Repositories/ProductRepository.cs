@@ -1,6 +1,7 @@
 ﻿using DemoProject.Application.Repostories;
 using DemoProject.Domain.Entities;
 using DemoProject.Infrastructure.EFCore;
+using Microsoft.EntityFrameworkCore;
 
 namespace DemoProject.Infrastructure.Repositories;
 
@@ -21,7 +22,7 @@ public class ProductRepository : IProductRepository
 
     public List<Product> GetProducts()
     {
-        var products = _context.Products.ToList();
+        var products = _context.Products.Include(p=>p.Category).ToList();   
         return products;
     }
 

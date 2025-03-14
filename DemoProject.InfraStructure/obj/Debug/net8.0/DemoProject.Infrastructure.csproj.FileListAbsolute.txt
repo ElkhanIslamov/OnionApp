@@ -17,3 +17,4 @@ C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.InfraSt
 C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.InfraStructure\obj\Debug\net8.0\DemoProject.Infrastructure.pdb
 C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.InfraStructure\obj\Debug\net8.0\DemoProject.Infrastructure.genruntimeconfig.cache
 C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.InfraStructure\obj\Debug\net8.0\ref\DemoProject.Infrastructure.dll
+C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.InfraStructure\obj\Debug\net8.0\DemoProject.Infrastructure.sourcelink.json

@@ -13,3 +13,4 @@ C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Applica
 C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Application\obj\Debug\net8.0\refint\DemoProject.Application.dll
 C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Application\obj\Debug\net8.0\DemoProject.Application.pdb
 C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Application\obj\Debug\net8.0\ref\DemoProject.Application.dll
+C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Application\obj\Debug\net8.0\DemoProject.Application.sourcelink.json

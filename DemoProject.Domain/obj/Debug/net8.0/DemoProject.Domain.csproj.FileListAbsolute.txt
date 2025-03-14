@@ -9,3 +9,4 @@ C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Domain\
 C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Domain\obj\Debug\net8.0\refint\DemoProject.Domain.dll
 C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Domain\obj\Debug\net8.0\DemoProject.Domain.pdb
 C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Domain\obj\Debug\net8.0\ref\DemoProject.Domain.dll
+C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\DemoProject.Domain\obj\Debug\net8.0\DemoProject.Domain.sourcelink.json

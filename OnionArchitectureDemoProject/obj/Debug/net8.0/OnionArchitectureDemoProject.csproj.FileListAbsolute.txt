@@ -68,3 +68,4 @@ C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\OnionArchitectureDe
 C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\OnionArchitectureDemoProject\bin\Debug\net8.0\DemoProject.Domain.pdb
 C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\OnionArchitectureDemoProject\obj\Debug\net8.0\OnionArchitectureDemoProject.csproj.AssemblyReference.cache
 C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\OnionArchitectureDemoProject\obj\Debug\net8.0\OnionArc.6ACC6785.Up2Date
+C:\Users\elkhan.islamov\Desktop\OnionArchitectureDemoProject\OnionArchitectureDemoProject\obj\Debug\net8.0\OnionArchitectureDemoProject.sourcelink.json

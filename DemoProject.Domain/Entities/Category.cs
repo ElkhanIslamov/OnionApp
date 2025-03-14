@@ -1,13 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace DemoProject.Domain.Entities;
 
-namespace DemoProject.Domain.Entities
+public class Category:Entity
 {
-    public class Category:Entity
-    {
-        public string Name { get; set; }
-    }
+    public string Name { get; set; }
+    public List<Product>? Products { get; set; } = new List<Product>();
 }
