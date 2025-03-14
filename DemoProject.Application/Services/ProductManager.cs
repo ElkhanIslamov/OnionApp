@@ -14,8 +14,13 @@ public class ProductManager : IProductService
         _repository = repository;
     }
 
-    public void AddProduct(Product product)
+    public void AddProduct(ProductCreateDto createDto)
     {
+        var product = new Product
+        {
+            Name = createDto.Name,
+            CategoryId = createDto.CategoryId,
+        };
         _repository.AddProduct(product);
     }
 

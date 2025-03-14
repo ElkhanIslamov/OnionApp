@@ -1,4 +1,5 @@
-﻿using DemoProject.Application.Services;
+﻿using DemoProject.Application.DTOs;
+using DemoProject.Application.Services;
 using DemoProject.Domain.Entities;
 using DemoProject.Infrastructure.EFCore;
 using DemoProject.Infrastructure.Repositories;
@@ -12,6 +13,14 @@ namespace OnionArchitectureDemoProject
             var appDbContext = new AppDbContext();
             ProductRepository productRepository = new ProductRepository(appDbContext);
             ProductManager productManager = new ProductManager(productRepository);
+
+            var productCreateDto = new ProductCreateDto
+            {
+                Name = "Test",
+                CategoryId = 1
+            };
+            productManager.AddProduct(productCreateDto);
+
 
             //Product product = new Product
             //{
